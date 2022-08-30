@@ -11,7 +11,7 @@ const Home = () => {
         <h2 className='text-4xl sm:text-6xl font-bold text-black'>
           Full Stack Developer
         </h2>
-        <p className='text-black font-bold py-4 max-w-[700px]'>
+        <p className='text-black font-bold text-xl py-4 max-w-[700px]'>
           I’m a full-stack developer specializing in building and designing React applications. 
         </p>
         <div>

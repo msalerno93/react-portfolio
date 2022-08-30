@@ -11,11 +11,11 @@ import rails from "../assets/rails.png"
 
 const Skills = () => {
   return (
-    <div name='skills' className='bg-blue-800'>
+    <div name='skills' className='w-full h-screen bg-blue-800'>
         <div className='max-w-[1000px] mx-auto p-4 w-full h-full'>
             <div>
-                <p className='flex flex-col justify-center items-center text-6xl text-white py-4 border-b-4 border-black font-bold'>Experience</p>
-                <p className='text-black font-bold text-xl py-4 '>Technologies I've Worked With:</p>
+                <p className='flex flex-col justify-center items-center text-6xl text-white py-4 border-b-4 border-black font-bold'>Skills</p>
+                <p className='text-black font-bold text-2xl py-4 '>Technologies I've Worked With:</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
