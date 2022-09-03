@@ -13,7 +13,7 @@ const Home = () => {
           Full Stack Developer
         </h2>
         <p className='text-black font-bold text-xl py-4 max-w-[700px]'>
-          I’m a full-stack developer specializing in building and designing React applications. 
+        Experienced in JavaScript, React, SQL and Ruby on Rails based programming with a background in Hardware Repair/Support. 
         </p>
         <div>
           <Link to='work' smooth={true} duration={500} >

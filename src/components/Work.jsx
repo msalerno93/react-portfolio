@@ -26,7 +26,7 @@ const Work = () => {
                 Movie Finder - React.js
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://movie-finder-ms.netlify.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg hover hover:bg-black hover:text-white'>
                     Demo
                   </button>
@@ -49,7 +49,7 @@ const Work = () => {
                 Weather App - React.js
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://weather-application-ms.netlify.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg hover hover:bg-black hover:text-white'>
                     Demo
                   </button>
@@ -73,11 +73,6 @@ const Work = () => {
                 Workout Tracker - React.js
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg hover hover:bg-black hover:text-white'>
-                    Demo
-                  </button>
-                </a>
                 <a href='https://github.com/msalerno93/workout-tracker-frontend'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg hover hover:bg-black hover:text-white'>
                     Code
